@@ -7,7 +7,7 @@
           <span class="text-4xl text-white font-bold">🍽️</span>
         </div>
         <h1 class="text-4xl font-bold bg-gradient-to-r from-primary-600 to-burgundy-700 bg-clip-text text-transparent mb-2">РесторанПро</h1>
-        <p class="text-black-600">Система управления бронированиями</p>
+        <p class="text-black-600">Информационная система управления бронированием и предзаказом блюд для заведений общественного питания</p>
       </div>
 
       <!-- Card -->
